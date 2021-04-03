@@ -1,0 +1,19 @@
+{
+  "name": "haversine",
+  "version": "1.1.1",
+  "description": "Uma Lib javascript para aplicação do cálculo de distancias através de latitude e longitude usando Haversine",
+  "license": "ISC",
+  "main": "haversine.js",
+  "type": "module",
+  "author": "Kaio Valdemar",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kaio-souza/haversine"
+  },
+  "keywords": [
+    "haversine",
+    "distance",
+    "coordinates",
+    "geolocation"
+  ]
+}
